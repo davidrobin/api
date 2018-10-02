@@ -1,0 +1,10 @@
+0;Bouygues Telecom : Telephones, Forfaits Mobiles, Internet ADSL et ...;https://www.bouyguestelecom.fr/
+1;Bouygues Telecom : Portail;http://portail.bouyguestelecom.fr/
+2;Corporate - Bouygues Telecom;https://www.corporate.bouyguestelecom.fr/
+3;TV Bbox - Bouygues Telecom;https://www.bouyguestelecom.fr/tvbbox
+4;Catalogue des services Bouygues Telecom : mobile, TV, Internet;https://www.services.bouyguestelecom.fr/
+5;Newsletter - Bouygues Telecom;https://www.bouyguestelecom.fr/newsletter
+6;SAV Bouygues Telecom: Accueil SAV;https://www.sav.bouyguestelecom.fr/
+7;Accessoires;https://www.bouyguestelecom.fr/accessoires
+8;Magasins Clubs Bouygues Telecom | Internet - Telephonie - SAV;https://boutiques.bouyguestelecom.fr/
+9;Bouygues Telecom;https://www.bouyguestelecom.fr/activation
